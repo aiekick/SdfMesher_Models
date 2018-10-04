@@ -8,7 +8,7 @@ Model : 6M of Voxels, many cubes of 100 x 100 x 100
 
 Renders :
 
-![Pic1](pic1.png)
+![Pic0](pic0.png)
 ![Pic2](pic2.png)
 
 Interior :
