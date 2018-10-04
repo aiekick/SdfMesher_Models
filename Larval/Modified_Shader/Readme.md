@@ -41,7 +41,7 @@ uniform float(checkbox) uShowRender;
 
 ### The uniform look like this in SdfMesher :
 
-![Pic0](pic0.png)
+![Pic1](pic1.png)
 
 ### The uniform uShowRender :
 
