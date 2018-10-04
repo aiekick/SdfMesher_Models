@@ -19,6 +19,11 @@ uniform float(time) iTime;
 ### Sliders
 
 ```glsl
+//the description is :
+uniform type(infValue, supValude, defaultValue) name;
+```
+
+```glsl
 uniform vec2(0.0,0.0:5.0,5.0:1.0,1.0) uRotXY;
 uniform float(0.0:5.0:1.0) uIntensity;
 uniform float(-6.0:6.0:0.0) uExposure;
