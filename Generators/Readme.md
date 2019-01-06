@@ -19,3 +19,4 @@ because quantization from 32M to 256 colors not work as expected.
 ![Pic1](pic1.png)
 ![Pic2](pic2.png)
 ![Pic3](pic3.png)
+![Pic4](pic4.png)
