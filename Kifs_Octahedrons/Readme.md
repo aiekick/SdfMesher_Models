@@ -2,7 +2,7 @@ Meshed with SdfMesher 0.0.6540 (twitter:https://twitter.com/search?q=sdfmesher&s
 
 Original Shader Link : https://www.shadertoy.com/view/Xtf3Rn
 
-Author : Connor Bell  (shadertoy:https://www.shadertoy.com/user/connrbell)
+Author : Connor Bell  (twitter:https://twitter.com/connrbell / ShaderToy:https://www.shadertoy.com/user/macbooktall)
 
 Model : many cubes of 100 x 100 x 100
 
