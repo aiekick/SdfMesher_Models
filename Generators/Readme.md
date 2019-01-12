@@ -20,3 +20,8 @@ because quantization from 32M to 256 colors not work as expected.
 ![Pic2](pic2.png)
 ![Pic3](pic3.png)
 ![Pic4](pic4.png)
+![Pic5](pic5.png)
+![Pic6](pic6.png)
+![Pic7](pic7.png)
+![Pic8](pic8.png)
+![Pic9](pic9.png)
