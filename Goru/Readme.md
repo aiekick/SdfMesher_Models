@@ -6,8 +6,8 @@ Original Author : FabriceNeyret  (shadertoy:https://www.shadertoy.com/user/Fabri
 
 Model : many cubes of 100 x 100 x 100
 
-![Pic0](pic0.png)
-![Pic1](pic1.png)
-![Pic2](pic2.png)
-![Pic3](pic3.png)
-![Pic4](pic4.png)
+![Pic0](0.png)
+![Pic1](1.png)
+![Pic2](2.png)
+![Pic3](3.png)
+![Pic4](4.png)
