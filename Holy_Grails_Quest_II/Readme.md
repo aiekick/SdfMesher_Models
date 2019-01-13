@@ -19,3 +19,9 @@ Glsl file used by SdfMesher : Holy_Grail_Quest_II.glsl
 ![Pic7](7.png)
 ![Pic8](8.png)
 
+Very precise version but Magicavoxel cant render it full
+
+![Pic9](9.png)
+![Pic10](10.png)
+![Pic11](11.png)
+
