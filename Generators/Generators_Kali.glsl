@@ -1,6 +1,6 @@
 @UNIFORMS
 
-uniform vec3(buffer:at=0) iResolution;
+uniform vec3(buffer:target=0) iResolution;
 uniform float(time) iTime;
 uniform vec4(mouse:2pos_2click) iMouse;
 uniform vec4(date) iDate;
