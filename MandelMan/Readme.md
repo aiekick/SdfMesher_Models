@@ -1,13 +1,13 @@
 Meshed with SdfMesher 0.0.6540 (twitter:https://twitter.com/search?q=sdfmesher&src=typd) from a shader
 
-Original Shader Link : https://www.shadertoy.com/view/Xtf3Rn
+Original Shader Link : https://www.shadertoy.com/view/3tjGR1
 
-Author : Kali  (shadertoy:https://www.shadertoy.com/user/Kali)
+Author : JohnShadow  (shadertoy:https://www.shadertoy.com/user/JohnShadow)
 ![Shader](shader.png)
 
-Model : 11M of voxels, many cubes of 100 x 100 x 100
+Model : 3M of voxels, many cubes of 100 x 100 x 100
 
-Glsl file used by SdfMesher : Generators_Kali.glsl 
+Glsl file used by SdfMesher : Mandel_Man.glsl 
 
 the mains difficult things, as usual was to understand code :)
 and extract, only df, normal, and color for a voxel pos. 
@@ -20,8 +20,4 @@ because quantization from 32M to 256 colors not work as expected.
 ![Pic2](pic2.png)
 ![Pic3](pic3.png)
 ![Pic4](pic4.png)
-![Pic5](pic5.png)
-![Pic6](pic6.png)
-![Pic7](pic7.png)
-![Pic8](pic8.png)
-![Pic9](pic9.png)
+
